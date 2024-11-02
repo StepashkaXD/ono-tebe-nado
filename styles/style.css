@@ -245,8 +245,8 @@
 }
 
 .about {
-  margin-top: 146px;
   display: grid;
+  margin-top: 146px;
   column-gap: 25px;
   grid-template-columns: 334px 1fr;
   grid-template-rows: 1fr 2fr;
