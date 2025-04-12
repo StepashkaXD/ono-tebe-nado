@@ -1,1 +1,1 @@
-https://github.com/StepashkaXD/ono-tebe-nado
+https://stepashkaxd.github.io/ono-tebe-nado/
