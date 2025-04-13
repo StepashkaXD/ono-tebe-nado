@@ -48,5 +48,5 @@ git clone https://github.com/StepashkaXD/ono-tebe-nado.git
 
 ## 👥 Автор
 
-[StepashkaXD](https://github.com/StepashkaXD)
+- **StepashkaXD** - [GitHub](https://github.com/StepashkaXD)
 
